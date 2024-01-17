@@ -18,4 +18,4 @@ It involves extracting data from diverse sources, performing ETL operations, and
 
 ## Dashboard Preview :
 
-![Dashboard Image 1](<Image URL 1>)
+![](images/)

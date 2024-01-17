@@ -18,4 +18,5 @@ It involves extracting data from diverse sources, performing ETL operations, and
 
 ## Dashboard Preview :
 
-![](Images/PowerBi-Fifa 2018-Dashboard.pdf)
+![](Images/PowerBi-Fifa 2018-Dashboard.png)
+

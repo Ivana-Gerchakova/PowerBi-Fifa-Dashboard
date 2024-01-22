@@ -1,6 +1,6 @@
 # Project Title :
 
-PowerBi-2018 FIFA World Cup-Dashboard
+PowerBi-2018 FIFA World Cup-Dashboard.
 
 ## Project Overview :
 
